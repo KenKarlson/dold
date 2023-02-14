@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  cursor: default;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+.header {
+  margin: 0;
+  padding: 0;
+}
+.header-container {
+  margin: 0;
+  padding: 6px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.header-txt {
+  margin-left: 20px;
+  margin-right: auto;
+}
+.header-txt__title {
+  margin: 0;
+  padding: 0;
+  font-family: Amatic SC, sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.header-txt__subtitle {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.4;
+}/*# sourceMappingURL=style.css.map */
